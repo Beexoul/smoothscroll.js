@@ -4,8 +4,6 @@
 
 
 # Smooth Scroll Plugin
-[Discord](https://discord.gg/zuefv8YavH)
-
 This repository contains a jQuery plugin for smooth scrolling functionality on webpages.
 
 ## Installation
