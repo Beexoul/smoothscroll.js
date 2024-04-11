@@ -2,7 +2,7 @@
  * Copyright (c) 2024 | shivarajpaudel.com.np
  * licensed under MIT
  * @author NotBeexoul
- * @version 1.1
+ * @version 1.1.1
  */
 
 if (!window['jQuery']) alert('jQuery library is not detected include ( jquery.js ) before then use smoothscroll.js file. Otherwise SmoothScroll will not work properly `@author NotBeexoul`.');
