@@ -4,7 +4,7 @@
 
 
 # Smooth Scroll Plugin
-[![Discord](https://img.shields.io/discord/687207715902193673)](https://discord.gg/zuefv8YavH)
+[Discord](https://discord.gg/zuefv8YavH)
 
 This repository contains a jQuery plugin for smooth scrolling functionality on webpages.
 
